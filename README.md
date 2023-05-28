@@ -14,8 +14,6 @@
 # IOT1026-Assignment-2                 
 
 
-
-# IOT1026-Assignment-1
 This project implements a TreasureChest class that represents a treasure chest with different states and properties. The TreasureChest class utilizes a state machine to handle state transitions between open, closed/unlocked, and locked states.
 
 The class provides methods to manipulate the state of the chest, such as opening, closing, locking, and unlocking. The state transitions are enforced based on the current state of the chest, ensuring that only valid actions can be performed.
