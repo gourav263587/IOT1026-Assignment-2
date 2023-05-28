@@ -25,8 +25,9 @@ The TreasureChest class also defines enums for the different states, actions, ma
 The project includes unit tests that verify the correctness of the state transitions and behavior of the TreasureChest class. The tests cover various scenarios, including valid and invalid state transitions.
         
         
-![image](https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/acb32d0c-897a-4add-aef7-e714f6b2a2df)
-**Bonus:** Improve the state diagram in the instructions.md file to use treasure chests and make a pull request to receive a 1% bonus. If multiple students make a pull request, the request I incorporate into the assignment will receive a 2% bonus. Ensure your pull request does not incorporate any other changes.
+![image](https://github.com/gourav263587/IOT1026-Assignment-2/assets/133707861/e3db8a46-4965-44f3-9972-e4e4f774eb63)
+        
+        **Bonus:** Improve the state diagram in the instructions.md file to use treasure chests and make a pull request to receive a 1% bonus. If multiple students make a pull request, the request I incorporate into the assignment will receive a 2% bonus. Ensure your pull request does not incorporate any other changes.
 
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
