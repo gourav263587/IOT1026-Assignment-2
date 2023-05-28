@@ -13,8 +13,22 @@
 
 # IOT1026-Assignment-2
 
-Write a description of the project here and don't forget to update the badges.
+     ![Screenshot 2023-05-18 040539](https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/c844db6c-d52e-4faa-b849-51e14a29e2fe.png)
+                 
 
+
+
+# IOT1026-Assignment-1
+This project implements a TreasureChest class that represents a treasure chest with different states and properties. The TreasureChest class utilizes a state machine to handle state transitions between open, closed/unlocked, and locked states.
+
+The class provides methods to manipulate the state of the chest, such as opening, closing, locking, and unlocking. The state transitions are enforced based on the current state of the chest, ensuring that only valid actions can be performed.
+
+The TreasureChest class also defines enums for the different states, actions, materials, lock types, and loot qualities associated with the chest. These enums provide flexibility in customizing the properties of the treasure chest.
+
+The project includes unit tests that verify the correctness of the state transitions and behavior of the TreasureChest class. The tests cover various scenarios, including valid and invalid state transitions.
+        
+        
+![image](https://github.com/gourav263587/IOT1026-Assignment-1/assets/133707861/acb32d0c-897a-4add-aef7-e714f6b2a2df)
 **Bonus:** Improve the state diagram in the instructions.md file to use treasure chests and make a pull request to receive a 1% bonus. If multiple students make a pull request, the request I incorporate into the assignment will receive a 2% bonus. Ensure your pull request does not incorporate any other changes.
 
 [Assignment Instructions](docs/instructions.md)  
